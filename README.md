@@ -1,6 +1,6 @@
 # Quantitative Analytics samples
 
-These notebooks demonstrates how to access and use the wide range of endpoints of Instrument Pricing Analytics (IPA) using Refinitiv Data Libraries.
+These notebooks demonstrate how to access and use the wide range of endpoints of Instrument Pricing Analytics (IPA) using Refinitiv Data Libraries.
 
 ##### Learn more
 
